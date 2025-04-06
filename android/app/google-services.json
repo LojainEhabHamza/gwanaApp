@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94981251985",
+    "project_id": "gwana-lojain-hamza",
+    "storage_bucket": "gwana-lojain-hamza.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94981251985:android:acf23eb66f06aaf6f0f030",
+        "android_client_info": {
+          "package_name": "com.example.gwana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIqUUsGBBxSIyzWVO3Pb6LFCnFY4xX4Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
